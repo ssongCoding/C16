@@ -1,4 +1,1 @@
-# HelloWorld
-
-Test Comment
-브랜치에서 추가함.
+# 코리아 IT 아카데미 C언어 16시 30분 반입니다 :)
